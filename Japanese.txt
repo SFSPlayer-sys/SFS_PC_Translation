@@ -1,0 +1,764 @@
+[None]
+    None=None
+    Font=normal
+
+[General]
+    Cancel=キャンセル
+    Close=閉じる
+
+    On=オン
+    Off=オフ
+
+    Open_Settings_Button=設定
+    Open_Cheats_Button=チート
+    Help=ヘルプ
+
+    Build_Rocket=ロケットを建造
+    Resume_Game=ゲームを再開
+    Return_To_Main_Menu=メインメニューに戻る
+    Exit_To_Main_Menu=メインメニューに終了
+
+[Main Menu]
+    Play=プレイ
+
+    Video_Tutorials_OpenButton=ビデオチュートリアル
+    Video_Orbit=軌道チュートリアル
+    Video_Moon=月面チュートリアル
+    Video_Dock=ドッキングチュートリアル
+
+    Development_Preview=開発プレビュー
+    Development_Preview_Explanation=開発プレビューでは現在開発中の今後のアップデートを紹介しています
+
+    Community_OpenButton=コミュニティ
+    Community_Youtube=YouTube
+    Community_Discord=Discord
+    Community_Reddit=Reddit
+    Community_Forums=フォーラム
+
+    Credits_OpenButton=クレジット
+
+    Credits_Text=<Size=70> Štefo Mai Morojna </size>
+    Credits_Text=<Size=55> デザイナー - プログラマー - アーティスト </size>
+    Credits_Text=
+    Credits_Text=<Size=70> Jordi van der Molen </size>
+    Credits_Text=<Size=55> プログラマー </size>
+    Credits_Text=
+    Credits_Text=<Size=70> Chris Christo </size>
+    Credits_Text=<Size=55> プログラマー </size>
+    Credits_Text=
+    Credits_Text=<Size=70> Josh </size>
+    Credits_Text=<Size=55> プログラマー </size>
+    Credits_Text=
+    Credits_Text=<Size=70> Aidan Ginise </size>
+    Credits_Text=<Size=55> プログラマー </size>
+    Credits_Text=
+    Credits_Text=<Size=70> Andrey Onischenko </size>
+    Credits_Text=<Size=55> プログラマー </size>
+    Credits_Text=
+    Credits_Text=<Size=70> Davi Vasc </size>
+    Credits_Text=<Size=55> 作曲家 </size>
+    Credits_Text=
+    Credits_Text=<Size=70> Ashton Mills </size>
+    Credits_Text=<size=55> 作曲家 </size>
+
+    First_Time_Playing_Question=初めてプレイ
+    First_Time_Playing_Question=スペースフライトシミュレーター？
+
+    First_Time_Playing_Yes=初めてプレイ
+    First_Time_Playing_No=以前プレイ済み
+
+    Update_Available=新しいアップデートが利用可能です！
+    Update_Available=
+    Update_Available=現在のバージョン: %old%
+    Update_Available=最新バージョン: %new%
+
+    Update_Confirm=更新
+
+    Rate_Title=ゲームを評価またはレビューしますか？
+    Rate_Title=
+    Rate_Title=私たちはゲームの品質を非常に重視しており、あなたのフィードバックが改善に役立ちます
+    Rate_Title=
+    Rate_Title=何千ものレビューがあっても、私たちはまだ多くのレビューを読んでいます！
+
+    Rate_Confirm=評価
+
+    Exit_Button=終了
+    Close_Game=ゲームを終了しますか？
+
+[Worlds Menu]
+    Create_New_World_Button=新しいワールドを作成
+    World_Delete=ワールドを削除しますか？
+
+# Create menu
+    Create_World_Title=ワールド名
+    Default_World_Name=マイワールド
+    Select_Solar_System=ワールドの太陽系を選択
+
+    Select_Solar_System__NotFound=太陽系が見つかりません:
+    Select_Solar_System__NotFound=%system%
+    Select_Solar_System__NotFound=
+    Select_Solar_System__NotFound=新しい太陽系を選択
+
+    Default_Solar_System=太陽系（デフォルト）
+    Custom_Solar_System=%name%（カスタム）
+
+# World info
+    World_Mode_Name=モード: %value%
+    Mode_Sandbox=サンドボックス
+    Mode_Challenge=チャレンジ
+    Mode_Career=キャリア
+
+    Allow_Cheats_Name=チートを許可: %value%
+    Allow_Cheats_Label=チートを許可
+
+    Allow_Quicksaves_Name=クイックセーブを許可: %value%
+    Allow_Quicksaves_Label=クイックセーブを許可
+
+    World_Difficulty_Name=難易度: %value%
+    Difficulty_Normal=ノーマル
+    Difficulty_Hard=ハード
+    Difficulty_Realistic=リアリスティック
+
+    Last_Played=最終プレイ: %value%前
+    Just_Played=最終プレイ: ついさっき
+    Time_Played=プレイ時間: %value%
+
+[World Create Menu]
+    World_Create_Title=ワールド作成
+    World_Name_Label=ワールド名:
+    Solar_System_Label=太陽系:
+    Mode_Label=モード:
+    Difficulty_Label=難易度:
+
+[Saving]
+# Blueprint stuff
+    Blueprints_Menu_Title=ブループリント
+    Unnamed_Blueprint=名前未設定のブループリント
+    Save_Blueprint=ブループリントを保存
+    Load_Blueprint=ブループリントを読み込み
+    Cannot_Save_Empty_Build=空のブループリントは保存できません
+
+# Quicksave stuff
+    Quicksaves_Menu_Title=クイックセーブ
+    Unnamed_Quicksave=名前未設定のクイックセーブ
+    Create_Quicksave=クイックセーブを作成
+    Load_Quicksave=クイックセーブを読み込み
+
+# Save and load menus
+    Save=保存
+    Load=読み込み
+    Import=インポート
+    Delete=削除
+    Rename=名前変更
+    Delete_File_With_Type=%filename% %filetype{1}%を削除
+
+# In progress
+    Saving_In_Progress=保存中...
+    Loading_In_Progress=読み込み中...
+    Importing_In_Progress=インポート中...
+
+# filetype (injected)
+    Blueprint{0}=ブループリント
+    Blueprint{1}=ブループリント
+    Blueprint{2}=ブループリント
+    Quicksave{0}=クイックセーブ
+    Quicksave{1}=クイックセーブ
+    Quicksave{2}=クイックセーブ
+
+# Ask overwrite menu
+    File_Already_Exists=この名前の%filetype{1}%は既に存在します
+    Overwrite_File=%filetype{1}%を上書き
+    New_File=新規%filetype{1}%
+
+# Load failure
+    Load_Failed=%filepath%から%filetype{1}%を読み込めませんでした
+
+[Purchasing]
+    Open_Shop_Menu=拡張パック
+    Parts_Expansion=パーツ拡張パック
+    Redstone_Atlas_Pack=レッドストーンアトラスパック
+    Skins_Expansion=スキン拡張パック
+    Planets_Expansion=惑星拡張パック
+    Cheats_Expansion=チート
+    Infinite_Area_Expansion=無限建造エリア
+    Builder_Bundle=ビルダーバンドル
+    Sandbox_Bundle=サンドボックスバンドル
+    Full_Bundle=フルバンドル
+    Upgrade_To_Full_Bundle=フルバンドルにアップグレード
+    Mac_Full_Version=フルバージョン
+
+    Not_All_Parts_Are_Owned=所有していないパーツがあります
+    Not_All_Parts_Are_Owned=所有していないパーツは無効化されました
+    Not_All_Parts_Are_Owned=
+    Not_All_Parts_Are_Owned=パーツ拡張パックを表示しますか？
+
+    View_Part_Expansion=拡張パックを表示
+
+    More_Parts=パーツ拡張パックを表示
+    More_Skins=スキン拡張パックを表示
+    Cannot_Use_Cheats_In_Career=チートはサンドボックスモードのワールドでのみ使用できます
+    Get_Infinite_Build_Area_Button=無限建造エリアを取得
+    Get_Cheats_Expansion_Button=チート拡張パックを取得
+
+    Buy_Product=%product% %price%を購入
+
+    Timed_Sale_Text=%product_name% -%sale_percent%オフ
+    Timed_Sale_Text=残り時間: %time_left%
+
+    Time_Upgrade_Text=%product_name%にアップグレード -%sale_percent%オフ
+    Time_Upgrade_Text=残り時間: %time_left%
+
+    Purchase_Thanks_Msg=購入済み: %product%
+    Purchase_Thanks_Msg=
+    Purchase_Thanks_Msg=ご支援ありがとうございます！
+    Purchase_Thanks_Msg=さあ、星々を探索しましょう！
+
+    Owned=%product%（所有済み）
+
+    Restore_Open=購入を復元
+
+# Parts Expansion
+    PartsExpansion_Tanks=多種多様な燃料タンク！
+    PartsExpansion_Engines=大型推進エンジン！
+    PartsExpansion_Parts=あらゆる形状とサイズのパーツ！
+
+    PartsExpansion_Build=大型建造スペースで創造物に命を吹き込みましょう！
+
+# Skins Expansion
+    SkinsExpansion_Tanks=多様なスキンでパーツを塗装！
+    SkinsExpansion_Interstages=インターステージから
+    SkinsExpansion_Nosecones=ノーズコーン
+    SkinsExpansion_Fairings=フェアリングまで
+
+# Planets Expansion
+    PlanetsExpansion_Jupiter=木星とその4つの衛星を探索！
+    PlanetsExpansion_Callisto=クレーターだらけのカリスト表面から！
+    PlanetsExpansion_Europa=広大なエウロパの氷原まで！
+
+    PlanetsExpansion_Conclusion=遠い世界があなたの探索を待っています！
+
+[Sharing]
+    Share_Button=ブループリントを共有
+    Upload_Blueprint_PC=ブループリントをアップロード
+    Download_Blueprint_PC=ブループリントをダウンロード
+    Share_Button_PC=共有
+    Download_Confirm=ダウンロード
+    URL_Field_TextBox=ブループリントURL
+    Empty_Upload=空のブループリントはアップロードできません
+    Uploading_Message=アップロード中...
+    Upload_Fail=ブループリントのアップロードに失敗
+    Copied_URL_To_Clipboard=ブループリントURLをクリップボードにコピー
+    Sharing_Enter_Prompt=ブループリントを読み込むワールドを選択
+    Confirm_Download_Button=ブループリントをダウンロード
+    Downloading_Message=ダウンロード中...
+    Download_Fail=ブループリントのダウンロードに失敗
+    URL_Invalid=無効なブループリントURL
+    Sharing_Connect_Fail=共有サーバーに接続できませんでした
+
+[Settings Mobile]
+    Music_Name=音楽
+    Sound_Name=効果音
+    Screen_Rotation_Name=画面回転
+    FPS_Name=FPS
+    Language_Name=言語
+    Menu_Scale=インターフェーススケール
+    Menu_Opacity=インターフェース透明度
+    Shakes_Name=カメラシェイク
+    Orbit_Line_Count=軌道線の数
+    Anti_Aliasing=アンチエイリアシング
+
+[Cheats]
+    Infinite_Build_Area_Name=無限建造エリア
+    Part_Clipping_Name=パーツクリッピング
+    Infinite_Fuel_Name=無限燃料
+    No_Atmospheric_Drag_Name=大気抵抗なし
+    No_Collision_Damage_Name=衝突ダメージなし
+    No_Gravity_Name=重力なし
+    No_Heat_Damage_Name=熱ダメージなし
+    No_Burn_Marks_Name=焼け焦げなし
+
+[Tutorials]
+    Tut_Drag_And_Drop=パーツをドラッグ＆ドロップ
+    Tut_Drag_And_Drop=ロケットを建造
+
+    Tut_Part_Info=クリックで表示
+    Tut_Part_Info=パーツ情報
+
+    Tut_Use_Part=パーツをクリックして使用
+    Tut_Ignition=点火！
+    Tut_Throttle=スロットル調整
+
+[Hub]
+    Funds_Text=資金: %funds%
+    Go_To_Space_Center=スペースセンター
+    Exit_To_Space_Center=スペースセンターに終了
+    Research_And_Development=研究開発 %complete%/%total%
+    Challenges_Info=チャレンジ: %complete%/%total%
+    Challenges_Button=チャレンジ: %complete%/%total%
+    Challenges_Title=チャレンジ:
+
+    Challenges_Completed=<size=55>チャレンジ達成:</size>
+    Challenges_Completed=%challenge%
+
+[Build]
+    Build_New_Rocket=新しいロケットを建造
+    New=新規
+    Expand_Last_Rocket=建造を続ける
+
+    Symmetry_On=対称: オン
+    Symmetry_Off=対称: オフ
+
+    Interior_View_On=内部ビュー: オン
+    Interior_View_Off=内部ビュー: オフ
+
+    Launch_Button=発射
+    Move_Rocket_Button=ロケットを移動
+
+# Clear build area
+    Clear_Warning=建造エリアをクリアしますか？
+    Clear_Confirm=クリア
+
+# Launch warnings
+    Warnings_Title=警告:
+    Missing_Capsule=ロケットにカプセルまたはプローブがなく、制御できません
+    Missing_Parachute=ロケットにパラシュートがありません
+    Missing_Heat_Shield=ロケットに熱シールドがありません
+    Missing_Fuel_Popup=燃料源がありません
+
+    Too_Heavy=ロケットが重すぎて発射できません
+    Too_Heavy=%mass%
+    Too_Heavy=%thrust%
+
+    Launch_Anyway_Button=それでも発射
+
+    Launch_Horizontally_Ask=水平発射しますか？
+    Launch_Horizontally_Confirm=水平発射
+    Launch_Vertically_Confirm=垂直発射
+
+# Example rockets
+    Example_Rockets_OpenMenu=サンプルロケット
+    Basic_Rocket=基本ロケット
+    Stages=2段式ロケット
+    Ideal_Stages=3段式ロケット
+    Lander=月面着陸機
+
+[Map]
+    Toggle_Map_Button=マップ
+    Escape=脱出
+    Encounter=接近
+    Rendezvous=ランデブー
+    Transfer=遷移ウィンドウ
+
+[Game]
+    Throttle_On=オン
+    Throttle_Off=オフ
+    Ignition=点火
+    RCS=RCS
+
+# Game supports screen rotation, we split into 2 lines in vertical mode
+    Height_Terrain_Vertical=高度（地形）:
+    Height_Terrain_Vertical=
+    Height_Terrain_Vertical=%height%
+
+    Height_Vertical=高度:
+    Height_Vertical=
+    Height_Vertical=%height%
+
+    Velocity_Vertical=速度:
+    Velocity_Vertical=
+    Velocity_Vertical=%speed%
+
+    Velocity_Relative_Vertical=速度（相対）:
+    Velocity_Relative_Vertical=
+    Velocity_Relative_Vertical=%speed%
+
+    Distance_Relative_Vertical=距離（相対）:
+    Distance_Relative_Vertical=
+    Distance_Relative_Vertical=%distance%
+
+    Angle_Vertical=角度:
+    Angle_Vertical=
+    Angle_Vertical=%angle% / %targetAngle%
+
+    Height_Terrain_Horizontal=高度（地形）: %height%
+    Height_Horizontal=高度: %height%
+    Velocity_Horizontal=速度: %speed%
+    Velocity_Relative_Horizontal=速度（相対）: %speed%
+    Distance_Relative_Horizontal=距離（相対）: %distance%
+    Angle_Horizontal=角度: %angle% / %targetAngle%
+
+    Relative_Velocity_Arrow=相対速度
+    Relative_Velocity_Arrow=%velocity%
+
+    Side_Velocity_Arrow=横方向速度
+    Side_Velocity_Arrow=%velocity%
+
+    Forward_Velocity_Arrow=距離
+    Forward_Velocity_Arrow=%distance%
+    Forward_Velocity_Arrow=
+    Forward_Velocity_Arrow=速度
+    Forward_Velocity_Arrow=%velocity%
+
+[Failure menu]
+    Failure_Cause=失敗原因:
+    Failure_Crash_Into_Rocket=他のロケットと衝突
+    Failure_Crash_Into_Terrain=%planet{1}%表面に衝突
+    Failure_Burn_Up=再突入時に燃え尽きた
+
+[End mission menu]
+    Recover_Rocket=回収
+    Destroy_Rocket=破棄
+    Debris_Recover=デブリを回収
+    Debris_Destroy=デブリを破棄
+    Debris_Recover_Title=デブリを回収しますか？
+    Debris_Destroy_Title=デブリを破棄しますか？
+    View_Mission_Log=飛行記録を表示
+
+# Restart menu
+    Restart_Mission_To_Launch_Warning=警告:
+    Restart_Mission_To_Launch_Warning=前回発射以降の進行がすべて取り消されます
+
+    Restart_Mission_To_Build_Warning=警告:
+    Restart_Mission_To_Build_Warning=前回発射以降の進行がすべて取り消されます
+
+    Restart_Mission_To_Launch=発射前に戻る
+    Restart_Mission_To_Build=建造前に戻る
+    Revert_30_Secs=30秒前に戻る
+    Revert_3_Min=3分前に戻る
+
+# End mission menu
+    End_Challenges_Title=チャレンジ:
+    End_Logs_Title=ミッション記録:
+    Continue_To_Log=続ける
+    Back_To_Challenges=戻る
+
+# Clear space junk/debris
+    Clear_Debris_Warning=デブリをクリアしますか？
+    Clear_Debris_Warning=
+    Clear_Debris_Warning=制御不能なロケットがすべて削除されます
+
+    Clear_Debris_Confirm=デブリをクリア
+
+    Navigate_To=ナビゲート先
+    End_Navigation=ナビゲーション終了
+    Focus=フォーカス
+    Unfocus=フォーカス解除
+    Track=トラック
+    Stop_Tracking=トラック停止
+    Switch_To=切り替え先
+
+[Rocket]
+    Default_Rocket_Name=ロケット
+    No_Control_Msg=制御不能
+
+[Timewarp]
+    Msg_Timewarp_Speed=時間加速 %speed%倍
+
+    Cannot_Timewarp_Below_Basic=%height%以下では時間加速できません
+    Cannot_Timewarp_Below=%height%以下では%speed%倍以上に加速できません
+    Cannot_Timewarp_While_Moving_On_Surface=地表移動中は%speed%倍以上に加速できません
+    Cannot_Timewarp_While_Accelerating=加速中は%speed%倍以上に加速できません
+    Cannot_Use_Part_While_Timewarping=時間加速中は%part{1}%を使用できません
+    Cannot_Turn_While_Timewarping=時間加速中は旋回できません
+
+    Timewarp_To_Button=ここまで時間加速
+
+[Units]
+    Thrust_To_Weight_Ratio=推力/重量比: %value%
+    Mass=質量: %value%t
+    Thrust=推力: %value%t
+    Burn_Time=燃焼時間: %value%s
+    Efficiency=効率: %value% Isp
+    Mass_Unit=t
+    Meter_Unit=m
+    Km_Unit=km
+    Meter_Per_Second_Unit=m/s
+
+[Timestamps]
+    Second_Short=%value%秒
+    Minute_Short=%value%分
+    Hour_Short=%value%時間
+    Day_Short=%value%日
+
+[Resource Types]
+    Solid_Fuel{0}=固体燃料
+    Solid_Fuel{1}=固体燃料
+    Liquid_Fuel{0}=液体燃料
+    Liquid_Fuel{1}=液体燃料
+
+[Resource Uses]
+    Resource_Bars_Title=%resource_name{0}%:
+    Info_Resource_Amount=%resource{0}%: %amount%
+    Msg_No_Resource_Source=%resource{1}%源がありません
+    Msg_No_Resource_Left=%resource{1}%が尽きました
+
+[Part Categories]
+    Basic_Parts=基本パーツ
+    Six_Wide_Parts=6幅
+    Eight_Wide_Parts=8幅
+    Ten_Wide_Parts=10幅
+    Twelve_Wide_Parts=12幅
+    Engine_Parts=エンジン
+    Aerodynamics_Parts=空力
+    Fairings_Parts=フェアリング
+    Structural_Parts=構造パーツ
+    Other_Parts=その他
+
+[Part Names]
+    Capsule_Name{0}=カプセル
+    Capsule_Name{1}=カプセル
+    Probe_Name{0}=プローブ
+    Probe_Name{1}=プローブ
+    Parachute_Name{0}=パラシュート
+    Parachute_Name{1}=パラシュート
+
+    Kolibri_Engine_Name{0}=Kolibriエンジン
+    Kolibri_Engine_Name{1}=Kolibriエンジン
+    Hawk_Engine_Name{0}=Hawkエンジン
+    Hawk_Engine_Name{1}=Hawkエンジン
+    Valiant_Engine_Name{0}=Valiantエンジン
+    Valiant_Engine_Name{1}=Valiantエンジン
+    Titan_Engine_Name{0}=Titanエンジン
+    Titan_Engine_Name{1}=Titanエンジン
+    Frontier_Engine_Name{0}=Frontierエンジン
+    Frontier_Engine_Name{1}=Frontierエンジン
+    Peregrine_Engine_Name{0}=Peregrineエンジン
+    Peregrine_Engine_Name{1}=Peregrineエンジン
+    Ion_Engine_Name{0}=イオンエンジン
+    Ion_Engine_Name{1}=イオンエンジン
+    RCS_Thruster_Name{0}=RCSスラスター
+    RCS_Thruster_Name{1}=RCSスラスター
+
+    Solid_Rocket_Booster{0}=固体ロケットブースター
+    Solid_Rocket_Booster{1}=固体ロケットブースター
+
+    Fuel_Tank_Name{0}=燃料タンク
+    Fuel_Tank_Name{1}=燃料タンク
+    Separator_Name{0}=ステージセパレーター
+    Separator_Name{1}=ステージセパレーター
+    Side_Separator_Name{0}=サイドセパレーター
+    Side_Separator_Name{1}=サイドセパレーター
+    Structural_Part_Name{0}=構造パーツ
+    Structural_Part_Name{1}=構造パーツ
+    Landing_Leg_Name{0}=着陸脚
+    Landing_Leg_Name{1}=着陸脚
+    Aerodynamic_Nose_Cone_Name{0}=空力ノーズコーン
+    Aerodynamic_Nose_Cone_Name{1}=空力ノーズコーン
+    Aerodynamic_Fuselage_Name{0}=空力フューズレージ
+    Aerodynamic_Fuselage_Name{1}=空力フューズレージ
+    Fairing_Name{0}=フェアリング
+    Fairing_Name{1}=フェアリング
+    Rover_Wheel_Name{0}=ローバーホイール
+    Rover_Wheel_Name{1}=ローバーホイール
+    Docking_Port_Name{0}=ドッキングポート
+    Docking_Port_Name{1}=ドッキングポート
+    Solar_Panel_Name{0}=ソーラーパネル
+    Solar_Panel_Name{1}=ソーラーパネル
+    Battery_Name{0}=バッテリー
+    Battery_Name{1}=バッテリー
+    RTG_Name{0}=RTG
+    RTG_Name{1}=RTG
+    Heat_Shield_Name{0}=ヒートシールド
+    Heat_Shield_Name{1}=ヒートシールド
+    Fuel_Pipe_Name{0}=燃料パイプ
+    Fuel_Pipe_Name{1}=燃料パイプ
+
+[Part Descriptions]
+    Capsule_Description=小型カプセル、宇宙飛行士1名を搭載
+    Probe_Description=無人プローブ、片道ミッション用
+    Parachute_Description=着陸用パラシュート
+    Fuel_Tank_Description=液体燃料と液体酸素を搭載した燃料タンク
+    Separator_Description=垂直セパレーター、空のステージを分離するために使用
+    Side_Separator_Description=水平セパレーター、サイドブースターを分離するために使用
+    Landing_Leg_Description=伸縮可能な着陸脚、月や惑星の表面着陸用
+    Structural_Part_Description=軽量で強力な構造パーツ
+    Hawk_Engine_Description=高推力-低効率エンジン、通常ロケットの第1段に使用
+    Titan_Engine_Description=高推力-低効率エンジン、通常ロケットの第1段に使用
+    Valiant_Engine_Description=高効率、低推力。宇宙空間で高推力が優先されない場合に使用
+    Frontier_Engine_Description=高効率、低推力。宇宙空間で高推力が優先されない場合に使用
+    Kolibri_Engine_Description=小型エンジン、着陸機用
+    Ion_Engine_Description=非常に高効率な極低推力エンジン
+    RCS_Thruster_Description=ドッキング用の小型方向制御スラスターセット
+
+    Booster_Description=高推力、低効率
+    Booster_Description=一度点火すると、オフにしたり推力調整できません
+
+    Aerodynamic_Nose_Cone_Description=空力ノーズコーン、サイドブースターの空力性能向上用
+    Aerodynamic_Fuselage_Description=空力フューズレージ、エンジンカバー用
+    Fairing_Description=空力フェアリング、ペイロード封入用
+    Battery_Description=電力を蓄えるバッテリー
+    Solar_Panel_Description=展開時に電力を生成するソーラーパネル
+    RTG_Description=放射性同位体熱電発電機（RTG）
+    Rover_Wheel_Description=惑星表面走行用ローバーホイール
+    Docking_Port_Description=2機の機体を接続するドッキングポート
+    Heat_Shield_Description=大気圏再突入を耐え抜く耐熱シールド
+    Fuel_Pipe_Description=燃料を転送するパイプ
+
+[Modules]
+    Torque_Module_Torque=トルク: %value%kN
+    Separation_Force=分離力: %value%kN
+    Magnet_Force=磁力: %value%kN
+
+    Max_Heat_Tolerance=耐熱限界: %temperature%
+
+    State_On{0}=オン
+    State_Off{0}=オフ
+
+    Engine_Module_State=エンジン%state{0}%
+    Engine_On_Label=エンジンオン
+    Gimbal_On_Label=ジンバルオン
+
+    Msg_RCS_Module_State=RCS%state{0}%
+
+    Wheel_Module_State=ローバーホイール%state{0}%
+    Wheel_On_Label=ホイールオン
+
+    Panel_Expanded=展開済み
+    Landing_Leg_Expanded=展開済み
+
+    Detach_Edges_Label=エッジを分離
+    Adapt_To_Tanks_Label=燃料タンクに適応
+
+    Info_Parachute_Max_Height=最大展開高度: %height%
+    Msg_Cannot_Deploy_Parachute_In_Vacuum=真空中ではパラシュートを展開できません
+    Msg_Cannot_Deploy_Parachute_Above=%height%以上ではパラシュートを展開できません
+    Msg_Cannot_Fully_Deploy_Above=%height%以上ではパラシュートを完全展開できません
+    Msg_Cannot_Deploy_Parachute_While_Faster=%velocity%以上ではパラシュートを展開できません
+    Msg_Cannot_Deploy_Parachute_While_Not_Moving=静止時はパラシュートを展開できません
+    Msg_Parachute_Half_Deployed=パラシュート半展開
+    Msg_Parachute_Fully_Deployed=パラシュート完全展開
+    Msg_Parachute_Cut=パラシュート切断
+
+[Planets]
+    Sun{0}=太陽
+    Sun{1}=太陽
+    Sun{2}=太陽
+    Mercury{0}=水星
+    Venus{0}=金星
+    Earth{0}=地球
+    Earth{1}=地球
+    Earth{2}=地球
+    Earth{3}=地球の
+    Moon{0}=月
+    Moon{1}=月
+    Moon{2}=月
+    Near_Earth_Asteroid{0}=捕獲小惑星
+    Near_Earth_Asteroid{1}=捕獲小惑星
+    Near_Earth_Asteroid{2}=捕獲小惑星
+    Mars{0}=火星
+    Phobos{0}=フォボス
+    Deimos{0}=ダイモス
+    Jupiter{0}=木星
+    Jupiter{1}=木星
+    Jupiter{2}=木星
+    Jupiter{3}=木星の
+    Europa{0}=エウロパ
+    Ganymede{0}=ガニメデ
+    Io{0}=イオ
+    Callisto{0}=カリスト
+
+[Landmarks]
+    Sea_of_Tranquility=静かの海
+    Sea_of_Serenity=神酒の海
+    Ocean_of_Storms=嵐の大洋
+    Copernicus_Crater=コペルニクスクレーター
+    Tycho_Crater=ティコクレーター
+
+    Olympus_Mons=オリンポス山
+    Valles_Marineris=マリネリス峡谷
+    Gale_Crater=ゲールクレーター
+    Hellas_Planitia=ヘラス平原
+    Arcadia_Planitia=アルカディア平原
+    Utopia_Planitia=ユートピア平原
+    Jezero_Crater=ジェゼロクレーター
+
+    Atalanta_Planitia=アタランダ平原
+    Lavinia_Planitia=ラウィニア平原
+
+    Caloris_Planitia=カロリス平原
+    Borealis_Planitia=ボレアリス平原
+    Maxwell_Montes=マクスウェル山
+
+[Challenges]
+    Liftoff_Title=離陸
+    Liftoff=離陸して安全に着陸
+
+    Reach10km_Title=高度10km到達
+    Reach10km=高度10kmに到達して安全に着陸
+
+    ReachSpace_Title=宇宙到達
+    ReachSpace=%height%に到達し、再突入を耐えて安全に着陸
+
+    Land100kmDownrange_Title=100km先に着陸
+    Land100kmDownrange=発射台から少なくとも100km離れて着陸
+
+    ReachLowEarthOrbit_Title=低軌道到達
+    ReachLowEarthOrbit=低軌道に到達し、安全に着陸
+
+    ReachHighEarthOrbit_Title=高軌道到達
+    ReachHighEarthOrbit=高軌道に到達し、安全に着陸
+
+    MoonOrbit_Title=月軌道
+    MoonOrbit=月低軌道に捕捉され、安全に帰還
+
+    MoonTour_Title=月面ツアー
+    MoonTour=3つの異なる地点に着陸し、安全に帰還
+
+    AsteroidImpact_Title=小惑星衝突
+    AsteroidImpact=捕獲小惑星表面に200+m/sで衝突
+
+    MarsGrandTour_Title=火星グランドツアー
+    MarsGrandTour=1回の飛行で火星、フォボス、ダイモスに着陸し、安全に帰還
+
+    VenusLanding_Title=金星着陸
+    VenusLanding=厚い大気圏を降下し、金星表面に着陸
+
+    VenusReturn_Title=金星帰還
+    VenusReturn=金星表面に着陸し、厚い大気圏を上昇して安全に帰還
+
+    MercuryLanding_Title=水星着陸
+    MercuryLanding=水星表面に着陸
+
+    MercuryReturn_Title=水星帰還
+    MercuryReturn=水星表面に着陸し、安全に帰還
+
+    LandAndReturn_Title=%planet{0}%着陸
+    LandAndReturn=%planet{0}%表面に着陸し、安全に帰還
+
+[Achievements]
+    Reached_Height=高度%height%到達
+    Reached_Karman_Line=カーマンラインを越え、大気圏を脱出して宇宙に到達
+    Survived_Reentry=%planet{3}%大気圏に再突入、最高温度%temperature%
+
+    Reached_Low_Orbit=%planet{0}%低軌道到達
+    Reached_High_Orbit=%planet{0}%高軌道到達
+    Descend_Low_Orbit=%planet{0}%低軌道に降下
+    Capture_Low_Orbit=%planet{0}%低軌道に捕捉
+    Capture_High_Orbit=%planet{0}%高軌道に捕捉
+
+    Entered_Lower_Atmosphere=%planet{3}%下層大気圏進入
+    Entered_Upper_Atmosphere=%planet{3}%上層大気圏進入
+    Left_Lower_Atmosphere=%planet{3}%上層大気圏到達
+    Left_Upper_Atmosphere=%planet{3}%大気圏脱出
+
+    Landed=%planet{1}%表面に着陸
+
+    Landed_At_Landmark=%planet{1}%表面に着陸
+    Landed_At_Landmark=<size=55>位置: %landmark%</size>
+
+    Landed_At_Landmark__Short=%planet{1}%表面に着陸
+    Landed_At_Landmark__Short=- %landmark% -
+
+    Crashed_Into_Terrain=%planet{1}%表面に衝突
+
+    Entered_SOI=%planet{1}%影響圏進入
+    Escaped_SOI=%planet{1}%影響圏脱出
+
+    Docked_Suborbital=%planet{1}%準軌道上でドッキング
+    Docked_Orbit_Low=%planet{0}%低軌道上でドッキング
+    Docked_Orbit_Transfer=%planet{1}%遷移軌道上でドッキング
+    Docked_Orbit_High=%planet{0}%高軌道上でドッキング
+    Docked_Escape=%planet{1}%脱出軌道上でドッキング
+    Docked_Surface=%planet{1}%表面上でドッキング
+
+    Recover_Home=%planet{1}%に無事帰還
