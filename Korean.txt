@@ -1,0 +1,641 @@
+[None]
+    None=None
+    Font=normal
+
+[General]
+    Cancel=취소
+    Close=닫기
+
+    On=켜짐
+    Off=꺼짐
+
+    Open_Settings_Button=설정
+    Open_Cheats_Button=치트
+    Help=도움말
+
+    Build_Rocket=로켓 제작
+    Resume_Game=게임 재개
+    Return_To_Main_Menu=메인 메뉴
+    Exit_To_Main_Menu=메인 메뉴로 나가기
+
+[Main Menu]
+    Play=플레이
+
+    Video_Tutorials_OpenButton=비디오 튜토리얼
+    Video_Orbit=궤도 튜토리얼
+    Video_Moon=달 튜토리얼
+    Video_Dock=도킹 튜토리얼
+
+    Development_Preview=개발 미리보기
+    Development_Preview_Explanation=개발 미리보기는 저희가 작업 중인 미래 업데이트를 보여줍니다
+
+    Community_OpenButton=커뮤니티
+    Community_Youtube=유튜브
+    Community_Discord=디스코드
+    Community_Reddit=레딧
+    Community_Forums=포럼
+
+    Credits_OpenButton=크레딧
+
+    Credits_Text=<Size=70> Štefo Mai Morojna </size>
+    Credits_Text=<Size=55> 디자이너 - 프로그래머 - 아티스트 </size>
+    Credits_Text=
+    Credits_Text=<Size=70> Jordi van der Molen </size>
+    Credits_Text=<Size=55> 프로그래머 </size>
+    Credits_Text=
+    Credits_Text=<Size=70> Chris Christo </size>
+    Credits_Text=<Size=55> 프로그래머 </size>
+    Credits_Text=
+    Credits_Text=<Size=70> Josh </size>
+    Credits_Text=<Size=55> 프로그래머 </size>
+    Credits_Text=
+    Credits_Text=<Size=70> Aidan Ginise </size>
+    Credits_Text=<Size=55> 프로그래머 </size>
+    Credits_Text=
+    Credits_Text=<Size=70> Andrey Onischenko </size>
+    Credits_Text=<Size=55> 프로그래머 </size>
+    Credits_Text=
+    Credits_Text=<Size=70> Davi Vasc </size>
+    Credits_Text=<Size=55> 작곡가 </size>
+    Credits_Text=
+    Credits_Text=<Size=70> Ashton Mills </size>
+    Credits_Text=<size=55> 작곡가 </size>
+
+    First_Time_Playing_Question=처음 플레이하_Question=처음 플레이하시나요?
+    First_Time_Playing_Question=스페이스플라이트 시뮬레이터?
+
+    First_Time_Playing_Yes=처음 플레이
+    First_Time_Playing_No=이전에 플레이함
+
+    Update_Available=새 업데이트가 있습니다!
+    Update_Available=
+    Update_Available=현재 버전: %old%
+    Update_Available=최신 버전: %new%
+
+    Update_Confirm=업데이트
+
+    Rate_Title=게임을 평가하거나 리뷰를 작성하시겠습니까?
+    Rate_Title=
+    Rate_Title=저희는 게임의 품질을 중요하게 생각하며, 여러분의 피드백은 게임을 개선하는 데 도움이 됩니다
+    Rate_Title=
+    Rate_Title=수천 개의 리뷰가 있더라도, 여전히 많은 리뷰를 읽고 있습니다!
+
+    Rate_Confirm=평가하기
+
+    Exit_Button=종료
+    Close_Game=게임을 종료하시겠습니까?
+
+[Worlds Menu]
+    Create_New_World_Button=새 세계 생성
+    World_Delete=세계를 삭제하시겠습니까?
+
+# Create menu
+    Create_World_Title=세계 이름
+    Default_World_Name=나의 세계
+    Select_Solar_System=세계의 태양계 선택
+
+    Select_Solar_System__NotFound=태양계를 찾을 수 없습니다:
+    Select_Solar_System__NotFound=%system%
+    Select_Solar_System__NotFound=
+    Select_Solar_System__NotFound=새 태양계 선택
+
+    Default_Solar_System=태양계 (기본)
+    Custom_Solar_System=%name% (사용자 정의)
+
+# World info
+    World_Mode_Name=모드: %value%
+    Mode_Sandbox=샌드박스
+    Mode_Challenge=도전
+    Mode_Career=커리어
+
+    Allow_Cheats_Name=치트 허용: %value%
+    Allow_Cheats_Label=치트 허용
+
+    Allow_Quicksaves_Name=퀵세이브 허용: %value%
+    Allow_Quicksaves_Label=퀵세이브 허용
+
+    World_Difficulty_Name=난이도: %value%
+    Difficulty_Normal=보통
+    Difficulty_Hard=어려움
+    Difficulty_Realistic=현실적
+
+    Last_Played=마지막 플레이: %value% 전
+    Just_Played=마지막 플레이: 방금 전
+    Time_Played=플레이 시간: %value%
+
+[World Create Menu]
+    World_Create_Title=세계 생성
+    World_Name_Label=세계 이름:
+    Solar_System_Label=태양계:
+    Mode_Label=모드:
+    Difficulty_Label=난이도:
+
+[Saving]
+# Blueprint도:
+
+[Saving]
+# Blueprint stuff
+    Blueprints_Menu_Title=청사진
+    Unitle=청사진
+    Unnamed_Blueprint=이름 없는 청사진
+    Save_Blueprint=사진
+    Save_Blueprint=청사진 저장
+    Load_Blueprint=청사진 불러오기
+    Cannot_Save_Empty_Build=빈 청사진은 저장할 수 없습니다
+
+# Quicksave stuff
+    Quicksaves_Menu_Title=퀵세이브
+    Unnamed_Quicksave=이름 없는 퀵세이브
+    Create_Quicksave=퀵세이브 생성
+    Load_Quicksave=퀵세이브 불러오기
+
+# Save and load menus
+    Save=저장
+    Load=불러오기
+    Import=가져오기
+    Delete=삭제
+    Rename=이름 변경
+    Delete_File_With_Type=%filename% %filetype{1}% 삭제
+
+# In progress
+    Saving_In_Progress=저장 중...
+    Loading_In_Progress=불러오는 중...
+    Importing_In_Progress=가져오는 중...
+
+# filetype (injected)
+    Blueprint{0}=청사진
+    Blueprint{1}=청사진
+    Blueprint{2}=청사진
+    Quicksave{0}=퀵세이브
+    Quicksave{1}=퀵세이브
+    Quicksave{2}=퀵세이브
+
+# Ask overwrite menu
+    File_Already_Exists=이미 존재하는 %filetype{1}%입니다
+    Overwrite_File=%filetype{1}% 덮어쓰기
+    New_File=새 %filetype{1}%
+
+# Load failure
+    Load_Failed=%filepath%에서 %filetype{1}%을(를) 불러올 수 없습니다
+
+[Purchasing]
+    Open_Shop_Menu=확장팩
+    Parts_Expansion=부품 확장팩
+    Redstone_Atlas_Pack=레드스톤 아틀라스 팩
+    Skins_Expansion=스킨 확장팩
+    Planets_Expansion=행성 확장팩
+    Cheats_Expansion=치트
+    Infinite_Area_Expansion=무제한 건설 영역
+    Builder_Bundle=빌더 번들
+    Sandbox_Bundle=샌드박스 번들
+    Full_Bundle=풀 번들
+    Upgrade_To_Full_Bundle=풀 번들로 업그레이드
+    Mac_Full_Version=풀 버전
+
+    Not_All_Parts_Are_Owned=모든 부품을 소유하고 있지 않습니다
+    Not_All_Parts_Are_Owned=소유하지 않은 부품 비활성화됨
+    Not_All_Parts_Are_Owned=
+    Not_All_Parts_Are_Owned=부품 확장팩 보기?
+
+    View_Part_Expansion=확장팩 보기
+
+    More_Parts=부품 확장팩 보기
+    More_Skins=스킨 확장팩 보기
+    Cannot_Use_Cheats_In_Career=치트는 샌드박스 모드 세계에서만 사용할 수 있습니다
+    Get_Infinite_Build_Area_Button=무제한 건설 영역 얻기
+    Get_Cheats_Expansion_Button=치트 확장팩 얻기
+
+    Buy_Product=%product% %price% 구매
+
+    Timed_Sale_Text=%product_name% -%sale_percent%
+    Timed_Sale_Text=%time_left%
+
+    Time_Upgrade_Text=%product_name% -%sale_percent%로 업그레이드
+    Time_Upgrade_Text=%time_left%
+
+    Purchase_Thanks_Msg=구매 완료: %product%
+    Purchase_Thanks_Msg=
+    Purchase_Thanks_Msg=지원해 주셔서 감사합니다!
+    Purchase_Thanks_Msg=이제 별들을 탐험하세요!
+
+    Owned=%product% (소유함)
+
+    Restore_Open=구매 복원
+
+# Parts Expansion
+    PartsExpansion_Tanks=다양한 연료 탱크!
+    PartsExpansion_Engines=강력한 엔진!
+    PartsExpansion_Parts=모든 모양과 크기의 부품!
+
+    PartsExpansion_Build=큰 건설 공간으로
+    PartsExpansion_Build=창의력을 발휘하세요!
+
+# Skins Expansion
+    SkinsExpansion_Tanks=다양한 스킨으로 부품을 꾸며보세요!
+    SkinsExpansion_Interstages=인터스테이지부터
+    SkinsExpansion_Nosecones=노즈콘까지
+    SkinsExpansion_Fairings=페어링도 색칠할 수 있습니다
+
+# Planets Expansion
+    PlanetsExpansion_Jupiter=목성과 그 위성 4개를 탐험하세요!
+    PlanetsExpansion_Callisto=칼리스토의 크레이터 표면부터!
+    PlanetsExpansion_Europa=유로파의 광활한 얼음 평원까지!
+
+    PlanetsExpansion_Conclusion=먼 세계가 여러분을 기다립니다
+    PlanetsExpansion_Conclusion=탐험하러 가보세요!
+
+[Sharing]
+    Share_Button=청사진 공유
+    Upload_Blueprint_PC=청사진 업로드
+    Download_Blueprint_PC=청사진 다운로드
+    Share_Button_PC=공유
+    Download_Confirm=다운로드
+    URL_Field_TextBox드
+    URL_Field_TextBox=청사진 URL
+    Empty_Upload=빈 청사진은 업로드할 수 없습니다
+    Uploading_Message=업로드 중...
+    Upload_Fail=청사진 업로드 실패
+    Copied_URL_To_Clipboard=청사진 URL을 클립보드에 복사했습니다
+    Sharing_Enter_Prompt=청사진을 불러올 세계 선택
+    Confirm_Download_Button=청사진 다운로드
+    Downloading_Message=다운로드 중...
+    Download_Fail=청사진 다운로드 실패
+    URL_Invalid=잘못된 청사진 URL
+    Sharing_Connect_Fail=공유 서버에 연결할 수 없습니다
+
+[Settings Mobile]
+    Music_Name=음악
+    Sound_Name=사운드
+    Screen_Rotation_Name=화면 회전
+    FPS_Name=FPS
+    Language_Name=언어
+    Menu_Scale=인터페이스 크기
+    Menu_Opacity=인터페이스 투명도
+    Shakes_Name=카메라 흔들림
+    Orbit_Line_Count=궤도 선 개수
+    Anti_Aliasing=안티앨리어싱
+
+[Cheats]
+    Infinite_Build_Area_Name=무제한 건설 영역
+    Part_Clipping_Name=부품 클_Clipping_Name=부품 클리핑
+    Infinite_Fuel_Name=무한 연료
+    No_Atmospheric_Drag_Name=대기 저항 없음
+=대기 저항 없음
+    No_Collision_Damage_Name=충돌 피해 없음
+    No_Gravity_Name=중력 없음
+    No_Heat_Damage_Name=열 피해 없음
+    No_Burn_Marks_Name=화상 자국 없음
+
+[Tutorials]
+
+    Tut_Drag_And_Drop=부품을 드래그 앤 드롭하여
+    Tut_Drag_And_Drop=로켓을 제작하세요
+
+    Tut_Part_Info=클릭하여
+    Tut_Part_Info=부품 정보 보기
+
+    Tut_Use_Part=부품을 클릭하여 사용하세요
+    Tut_Ignition=점화!
+    Tut_Throttle=추력 조절
+
+[Hub]
+    Funds_Text=자금: %funds%
+    Go_To_Space_Center=우주 센터
+    Exit_To_Space_Center=우주 센터로 나가기
+    Research_And_Development=연구 및 개발 %complete%/%total%
+    Challenges_Info=도전 과제: %complete%/%total%
+    Challenges_Button=도전 과제: %complete%/%total%
+    Challenges_Title=도전 과제:
+
+    Challenges_Completed=<size=55>도전 과제 완료:</size>
+    Challenges_Completed=%challenge%
+
+[Build]
+    Build_New_Rocket=새 로켓 제작
+    New=새로 만들기
+    Expand_Last_Rocket=제작 계속하기
+
+    Symmetry_On=대칭: 켜짐
+    Symmetry_Off=대칭: 꺼짐
+
+    Interior_View_On=내부 보기: 켜짐
+    Interior_View_Off=내부 보기: 꺼짐
+
+    Launch_Button=발사
+    Move_Rocket_Button=로켓 이동
+
+# Clear build area
+    Clear_Warning=건설 영역을 지우시겠습니까?
+    Clear_Confirm=지우기
+
+# Launch warnings
+    Warnings_Title=경고:
+    Missing_Capsule=로켓에 캡슐이나 탐사선이 없어 제어할 수 없습니다
+    Missing_Parachute=로켓에 낙하산이 없습니다
+    Missing_Heat_Shield=로켓에 열 차폐판이 없습니다
+    Missing_Fuel_Popup=연료 공급원 없음
+
+    Too_Heavy=로켓이 너무 무거워 발사할 수 없습니다
+    Too_Heavy=%mass%
+    Too_Heavy=%thrust%
+
+    Launch_Anyway_Button=그래도 발사
+
+    Launch_Horizontally_Ask=수평으로 발사하시겠습니까?
+    Launch_Horizontally_Confirm=수평 발사
+    Launch_Vertically_Confirm=수직 발사
+
+# Example rockets
+    Example_Rockets_OpenMenu=예시 로켓
+    Basic_Rocket=기본 로켓
+    Stages=2단 로켓
+    Ideal_Stages=3단 로켓
+    Lander=달 착륙선
+
+[Map]
+    Toggle_Map_Button=지도
+    Escape=탈출
+    Encounter=접촉
+    Rendezvous=랜덩부
+    Transfer=전이 창
+
+[Game]
+    Throttle_On=켜짐
+    Throttle_Off=꺼짐
+    Ignition=점화
+    RCS=RCS
+
+# Game supports screen rotation, we split into 2 lines in vertical mode
+    Height_Terrain_Vertical=고도 (지형):
+    Height_Terrain_Vertical=
+    Height_Terrain_Vertical=%height%
+
+    Height_Vertical=고도:
+    Height_Vertical=
+    Height_Vertical=%height%
+
+    Velocity_Vertical=속도:
+    Velocity_Vertical=
+    Velocity_Vertical=%speed%
+
+    Velocity_Relative_Vertical=속도 (상대):
+    Velocity_Relative_Vertical=
+    Velocity_Relative_Vertical=%speed%
+
+    Distance_Relative_Vertical=거리 (상대):
+    Distance_Relative_Vertical=
+    Distance_Relative_Vertical=%distance%
+
+    Angle_Vertical=각도:
+    Angle_Vertical=
+    Angle_Vertical=%angle% / %targetAngle%
+
+    Height_Terrain_Horizontal=고도 (지형): %height%
+    Height_Horizontal=고도: %height%
+    Velocity_Horizontal=속도: %speed%
+    Velocity_Relative_Horizontal=속도 (상대): %speed%
+    Distance_Relative_Horizontal=거리 (상대): %distance%
+    Angle_Horizontal=각도: %angle% / %targetAngle%
+
+    Relative_Velocity_Arrow=상대 속도
+    Relative_Velocity_Arrow=%velocity%
+
+    Side_Velocity_Arrow=측면 속도
+    Side_Velocity_Arrow=%velocity%
+
+    Forward_Velocity_Arrow=거리
+    Forward_Velocity_Arrow=%distance%
+    Forward_Velocity_Arrow=
+    Forward_Velocity_Arrow=속도
+    Forward_Velocity_Arrow=%velocity%
+
+[Failure menu]
+    Failure_Cause=실패 원인:
+    Failure_Crash_Into_Rocket=다른 로켓과 충돌했습니다
+    Failure_Crash_Into_Terrain=%planet{1}% 표면과 충돌했습니다
+    Failure_Burn_Up=재진입 중 소각되었습니다
+
+[End mission menu]
+    Recover_Rocket=회수
+    Destroy_Rocket=파괴
+    Debris_Recover=잔해 회수
+    Debris_Destroy=잔해 파괴
+    Debris_Recover_Title=잔해를 회수하시겠습니까?
+    Debris_Destroy_Title=잔해를 파괴하시겠습니까?
+    View_Mission_Log=비행 기록 보기
+
+# Restart menu
+    Restart_Mission_To_Launch_Warning=경고:
+    Restart_Mission_To_Launch_Warning=이 작업은 마지막 발사 이후의 모든 진행 상황을 되돌립니다
+
+    Restart_Mission_To_Build_Warning=경고:
+    Restart_Mission_To_Build_Warning=이 작업은 마지막 발사 이후의 모든 진행 상황을 되돌립니다
+
+    Restart_Mission_To_Launch=발사로 되돌리기
+    Restart_Mission_To_Build=제작으로 되돌리기
+    Revert_30_Secs=30초 전으로 되돌리기
+    Revert_3_Min=3분 전으로 되돌리기
+
+# End mission menu
+    End_Challenges_Title=도전 과제:
+    End_Logs_Title=미션 기록:
+    Continue_To_Log=계속
+    Back_To_Challenges=뒤로
+
+# Clear space junk/debris
+    Clear_Debris_Warning=잔해를 지우시겠습니까?
+    Clear_Debris_Warning=
+    Clear_Debris_Warning=이 작업은 모든 제어 불가능한 로켓을 제거합니다
+
+    Clear_Debris_Confirm=잔해 지우기
+
+    Navigate_To=탐색
+    End_Navigation=탐색 종료
+    Focus=포커스
+    Unfocus=포커스 해제
+    Track=추적
+    Stop_Tracking=추적 중지
+    Switch_To=전환
+
+[Rocket]
+    Default_Rocket_Name=로켓
+    No_Control_Msg=제어 불가
+
+[Timewarp]
+    Msg_Timewarp_Speed=시간 가속 %speed%x
+
+    Cannot_Timewarp_Below_Basic=%height% 아래에서는 시간 가속을 할 수 없습니다
+    Cannot_Timewarp_Below=%height% 아래에서는 %speed%x보다 빠르게 시간 가속을 할 수 없습니다
+    Cannot_Timewarp_While_Moving_On_Surface=표면에서 이동 중에는 %speed%x보다 빠르게 시간 가속을 할 수 없습니다
+    Cannot_Timewarp_While_Accelerating=가속 중에는 %speed%x보다 빠르게 시간 가속을 할 수 없습니다
+    Cannot_Use_Part_While_Timewarping=시간 가속 중에는 %part{1}%을(를) 사용할 수 없습니다
+    Cannot_Turn_While_Timewarping=시간 가속 중에는 회전할 수 없습니다
+
+    Timewarp_To_Button=여기로 시간 가속
+
+[Units]
+    Thrust_To_Weight_Ratio=추력 / 무게: %value%
+    Mass=질량: %value%t
+    Thrust=추력: %value%t
+    Burn_Time=연소 시간: %value%s
+    Efficiency=효율: %value% Isp
+    Mass_Unit=t
+    Meter_Unit=m
+    Km_Unit=km
+    Meter_Per_Second_Unit=m/s
+
+[Timestamps]
+    Second_Short=%value%s
+    Minute_Short=%value%m
+    Hour_Short=%value%h
+    Day_Short=%value%d
+
+[Resource Types]
+    Solid_Fuel{0}=고체 연료
+    Solid_Fuel{1}=고체 연료
+    Liquid_Fuel{0}=액체 연료
+    Liquid_Fuel{1}=액체 연료
+
+[Resource Uses]
+    Resource_Bars_Title=%resource_name{0}%:
+    Info_Resource_Amount=%resource{0}%: %amount%
+    Msg_No_Resource_Source=%resource{1}% 공급원 없음
+    Msg_No_Resource_Left=%resource{1}% 부족
+
+[Part Categories]
+    Basic_Parts=기본
+    Six_Wide_Parts=6 너비
+    Eight_Wide_Parts=8 너비
+    Ten_Wide_Parts=10 너비
+    Twelve_Wide_Parts=12 너비
+    Engine_Parts=엔진
+    Aerodynamics_Parts=공기역학
+    Fairings_Parts=페
+    Fairings_Parts=페어링
+    Structural_Parts=구조
+    Other_Parts=기타
+
+[Part Names]
+    Capsule_Name{0}=캡슐
+    Capsule_Name{1}=캡슐
+    Probe_Name{0}=탐사선
+    Probe_Name{1}=탐사선
+    Parachute_Name{0}=낙하산
+    Parachute_Name{1}=낙하산
+
+    Kolibri_Engine_Name{0}=콜리브리 엔진
+    Kolibri_Engine_Name{1}=콜리브리 엔진
+    Hawk_Engine_Name{0}=호크 엔진
+    Hawk_Engine_Name{1}=호크Engine_Name{1}=호크 엔진
+    Valiant_Engine_Name{0}=발리언트 엔진
+    Valiant_Engine_Name{1}=발리언트 엔진
+    Titan_Engine_Name{0}=타이탄 엔진
+    Titan_Engine_Name{1}=타이탄 엔진
+    Frontier_Engine_Name{0}=프론티어 엔진
+    Frontier_Engine_Name{1}=프론티어 엔진
+    Peregrine_Engine_Name{0}=페레그린 엔진
+    Peregrine_Engine_Name{1}=페레그린 엔진
+    Ion_Engine_Name{0}=이온 엔진
+    Ion_Engine_Name{1}=이온 엔진
+    RCS_Thruster_Name{0}=RCS 추진기
+    RCS_Thruster_Name{1}=RCS 추진기
+
+    Solid_Rocket_Booster{0}=고체 로켓 부스터
+    Solid_Rocket_Booster{1}=고체 로켓 부스터
+
+    Fuel_Tank_Name{0}=연료 탱크
+    Fuel_Tank_Name{1}=연료 탱크
+    Separator_Name{0}=단 분리기
+    Separator_Name{1}=단 분리기
+    Side_Separator_Name{0}=측면 분리기
+    Side_Separator_Name{1}=측면 분리기
+    Structural_Part_Name{0}=구조 부품
+    Structural_Part_Name{1}=구조 부품
+    Landing_Leg_Name{0}=착륙 다리
+    Landing_Leg_Name{1}=착륙 다리
+    Aerodynamic_Nose_Cone_Name{0}=공기역학 노즈 콘
+    Aerodynamic_Nose_Cone_Name{1}=공기역학 노즈 콘
+    Aerodynamic_Fuselage_Name{0}=공기역학 동체
+    Aerodynamic_Fuselage_Name{1}=공기역학 동체
+    Fairing_Name{0}=페어링
+    Fairing_Name{1}=페어링
+    Rover_Wheel_Name{0}=로버 휠
+    Rover_Wheel_Name{1}=로버 휠
+    Docking_Port_Name{0}=도킹 포트
+    Docking_Port_Name{1}=도킹 포트
+    Solar_Panel_Name{0}=태양 전지판
+    Solar_Panel_Name{1}=태양 전지판
+    Battery_Name{0}=배터리
+    Battery_Name{1}=배터리
+    RTG_Name{0}=RTG
+    RTG_Name{1}=RTG
+    Heat_Shield_Name{0}=열 차폐판
+    Heat_Shield_Name{1}=열 차폐판
+    Fuel_Pipe_Name{0}=연료 파이프
+    Fuel_Pipe_Name{1}=연료 파이프
+
+[Part Descriptions]
+    Capsule_Description=한 명의 우주비행사를 수송하는 작은 캡슐
+    Probe_Description=단방향 미션용 무인 탐사선
+    Parachute_Description=착륙용 낙하산
+    Fuel_Tank_Description=액체 연료와 액체 산소를 운반하는 연료 탱크
+    Separator_Description=빈 단을 분리하는 수직 분리기
+    Side_Separator_Description=측면 부스터를 분리하는 수평 분리기
+    Landing_Leg_Description=달과 행성 표면에 착륙하기 위한 접이식 다리
+    Structural_Part_Description=가볍고 강한 구조 부품
+    Hawk_Engine_Description=고추력-저효율 엔진, 일반적으로 로켓의 첫 단에 사용됨
+    Titan_Engine_Description=고추력-저효율 엔진, 일반적으로 로켓의 첫 단에 사용됨
+    Valiant_Engine_Description=고효율, 저추력. 고추력이 필요하지 않은 우주에서 사용됨
+    Frontier_Engine_Description=고효율, 저추력. 고추력이 필요하지 않은 우주에서 사용됨
+    Kolibri_Engine_Description=착륙선용 소형 엔진
+    Ion_Engine_Description=믿을 수 없을 정도로 높은 효율의 저추력 엔진
+    RCS_Thruster_Description=도킹용 소형 방향 추진기 세트
+
+    Booster_Description=고추력, 저효율
+    Booster_Description=점화 후에는 끄거나 추력을 조절할 수 없음
+
+    Aerodynamic_Nose_Cone_Description=측면 부스터의 공기역학을 개선하는 공기역학 노즈 콘
+    Aerodynamic_Fuselage_Description=엔진을 덮는 공기역학 동체
+    Fairing_Description=페이로드를 캡슐화하는 공기역학 페어링
+    Battery_Description=전력을 저장하는 배터리
+    Solar_Panel_Description=펼치면 전력을 생성하는 태양 전지판
+    RTG_Description=방사성 동위원소 열전기 발전기 또는 RTG
+    Rover_Wheel_Description=행성 표면에서 주행하는 로버 휠
+    Docking_Port_Description=두 차량을 연결하는 도킹량을 연결하는 도킹 포트
+    Heat_Shield_Description=대기 재돌입에서 생존하기 위한 내열성 차폐판
+    Fuel_Pipe_Description=연료를 전송하는 파이프
+
+[Modules]
+    Torque_Module_Torque=토크: %value%kN
+    Separation_Force=분리력: %value%kN
+    Magnet_Force=자력: %value%kN
+
+    Max_Heat_Tolerance=내열성: %temperature%
+
+    State_On{0}=켜짐
+    State_Off{0}=꺼짐
+
+    Engine_Module_State=엔진 %state{0}%
+    Engine_On_Label=엔진 켜짐
+    Gimbal_On_Label=짐벌 켜짐
+
+    Msg_RCS_Module_State=RCS %state{0}%
+
+    Wheel_Module_State=로버 휠 %state{0}%
+    Wheel_On_Label=휠 켜짐
+
+    Panel_Expanded=펼침
+    Landing_Leg_Expanded=전개됨
+
+    Detach_Edges_Label=가장자리 분리
+    Adapt_To_Tanks_Label=연료 탱크에 맞춤
+
+    Info_Parachute_Max_Height=최대 전개 높이: %height%
+    Msg_Cannot_Deploy_Parachute_In_Vacuum=진공에서는 낙하산을 전개할 수 없습니다
+    Msg_Cannot_Deploy_Parachute_Above=%height% 이상에서는 낙하산을 전개할 수 없습니다
+    Msg_Cannot_Fully_Deploy_Above=%height% 이상에서는 낙하산을 완전히 전개할 수 없습니다
+    Msg_Cannot_Deploy_Parachute_While_Faster=%velocity% 이상의 속도에서는 낙하산을 전개할 수 없습니다
+    Msg_Cannot_Deploy_Parachute_While_Not_Moving=이동 중이 아닐 때는 낙하산을 전개할 수 없습니다
+    Msg_Parachute_Half_Deployed=낙하산 반전개됨
+    Msg_Parachute_Fully_Deployed=낙하산 완전전개됨
+    Msg_Parachute_Cut=낙하산 절단됨

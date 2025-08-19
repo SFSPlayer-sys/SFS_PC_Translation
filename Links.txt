@@ -1,0 +1,8 @@
+中文;https://raw.githubusercontent.com/SFSPlayer-sys/SFS_PC_Translation/main/Chinese.txt  
+Português (Brasil);https://raw.githubusercontent.com/SFSPlayer-sys/SFS_PC_Translation/main/Brazilian.txt  
+Français;https://raw.githubusercontent.com/SFSPlayer-sys/SFS_PC_Translation/main/French.txt  
+Deutsch;https://raw.githubusercontent.com/SFSPlayer-sys/SFS_PC_Translation/main/German.txt  
+日本語;https://raw.githubusercontent.com/SFSPlayer-sys/SFS_PC_Translation/main/Japanese.txt  
+한국어;https://raw.githubusercontent.com/SFSPlayer-sys/SFS_PC_Translation/main/Korean.txt  
+Español;https://raw.githubusercontent.com/SFSPlayer-sys/SFS_PC_Translation/main/Spanish.txt  
+Русский;https://raw.githubusercontent.com/SFSPlayer-sys/SFS_PC_Translation/main/Russian.txt
